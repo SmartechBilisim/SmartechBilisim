@@ -1,7 +1,7 @@
  # 👋 Hi, I’m Smartech Bilisim Company
 - 👀 I’m interested in Software
 - 📫 How to reach me
-<a href="/smartechbilisim.com.tr">Link</a>
+<a href="https://smartechbilisim.com.tr">Link</a>
 
 <!---
 SmartechBilisim/SmartechBilisim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
